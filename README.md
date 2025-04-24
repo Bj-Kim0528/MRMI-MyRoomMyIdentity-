@@ -4,7 +4,7 @@ Github:
 https://github.com/Bj-Kim0528/mrmiPrd
 
 Url:
-http://ec2-54-249-33-89.ap-northeast-1.compute.amazonaws.com/
+https://mrmizukuri.com/
 
 ## サイト概要
 ### サイトテーマ
